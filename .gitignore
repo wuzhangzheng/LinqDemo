@@ -3,3 +3,4 @@ CtmFilter/
 AopDemo.Api/*.txt
 bin/
 obj/
+.vscode/solution-explorer/
